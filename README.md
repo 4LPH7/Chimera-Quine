@@ -1,5 +1,5 @@
 
-# 🧬 Chimera Builder Live
+# 🧬 Chimera Quine
 
 **Chimera Builder Live** is an all-in-one graphical (GUI) tool for creating, inspecting, and decrypting "Chimera Quines."
 
